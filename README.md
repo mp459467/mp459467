@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Maciej.
+## Hi 👋 I'm Maciej.
 
 - 🌱 I’m a Computer Science student (2nd year) at University Of Warsaw
 - 👯 Looking for an internship or part-time job to accelerate skills and knowledge aquirement
